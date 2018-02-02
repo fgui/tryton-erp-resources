@@ -31,7 +31,7 @@ Official BugTracker and Codereview
 
 Demo Server
 -----------
-http://demo.tryton.org/ --> Demo server. It redirects you to the latest version number (for example, you would be redirected to http://demox.y.tryton.org/ for version x.y). It can be accessed directly on the browser now, thanks to sao. It can also be used with the desktop client.
+http://demo.tryton.org/ --> Demo server. It redirects you to the latest version number (for example, you would be redirected to 
 
 Code
 ----
