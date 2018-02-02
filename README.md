@@ -20,6 +20,9 @@ Rules: The link should be about Tryton, its functionalities and its development 
 Official Website
 ----------------
 * http://www.tryton.org/
+* http://www.tryton.org/papers.html
+* http://doc.tryton.org
+* http://hg.tryton.org
 
 Official BugTracker and Codereview
 ----------------------------------
